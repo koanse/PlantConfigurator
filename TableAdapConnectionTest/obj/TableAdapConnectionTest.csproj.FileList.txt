@@ -1,0 +1,10 @@
+bin\Debug\TableAdapConnectionTest.exe.config
+bin\Debug\TableAdapConnectionTest.exe
+bin\Debug\TableAdapConnectionTest.pdb
+bin\Debug\System.Data.OracleClient.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TableAdapConnectionTest.Properties.Resources.resources
+obj\Debug\TableAdapConnectionTest.csproj.GenerateResource.Cache
+obj\Debug\TableAdapConnectionTest.exe
+obj\Debug\TableAdapConnectionTest.pdb
+obj\Debug\TableAdapConnectionTest.MainForm.resources

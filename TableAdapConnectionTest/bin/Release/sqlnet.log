@@ -1,0 +1,100 @@
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=enter)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=testdb)(CID=(PROGRAM=C:\Documents and Settings\COMP\Мои документы\Visual Studio 2005\Projects\PlantConfig\TableAdapConnectionTest\bin\Release\PlantConfigurator.exe)(HOST=ANTON_BASE_PC)(USER=me))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 19-ДЕК-2008 15:12:46
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=enter)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=testdb)(CID=(PROGRAM=C:\Documents and Settings\COMP\Мои документы\Visual Studio 2005\Projects\PlantConfig\TableAdapConnectionTest\bin\Release\PlantConfigurator.exe)(HOST=ANTON_BASE_PC)(USER=me))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 19-ДЕК-2008 15:12:55
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=enter)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=testdb)(CID=(PROGRAM=C:\Documents and Settings\COMP\Мои документы\Visual Studio 2005\Projects\PlantConfig\TableAdapConnectionTest\bin\Release\PlantConfigurator.exe)(HOST=ANTON_BASE_PC)(USER=me))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 19-ДЕК-2008 15:14:18
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=enter)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=testdb)(CID=(PROGRAM=C:\Documents and Settings\COMP\Мои документы\Visual Studio 2005\Projects\PlantConfig\TableAdapConnectionTest\bin\Release\PlantConfigurator.exe)(HOST=ANTON_BASE_PC)(USER=me))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 19-ДЕК-2008 15:21:00
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0
+
+
+***********************************************************************
+Fatal NI connect error 12545, connecting to:
+ (DESCRIPTION=(ADDRESS=(PROTOCOL=TCP)(HOST=enter)(PORT=1521))(CONNECT_DATA=(SERVICE_NAME=testdb)(CID=(PROGRAM=C:\Documents and Settings\COMP\Мои документы\Visual Studio 2005\Projects\PlantConfig\TableAdapConnectionTest\bin\Release\PlantConfigurator.exe)(HOST=ANTON_BASE_PC)(USER=me))))
+
+  VERSION INFORMATION:
+	TNS for 32-bit Windows: Version 8.1.7.0.0 - Production
+	Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 8.1.7.0.0 - Production
+  Time: 19-ДЕК-2008 15:21:11
+  Tracing not turned on.
+  Tns error struct:
+    nr err code: 0
+    ns main err code: 12545
+    TNS-12545: Connect failed because target host or object does not exist
+    ns secondary err code: 12560
+    nt main err code: 515
+    TNS-00515: Connect failed because target host or object does not exist
+    nt secondary err code: 1001
+    nt OS err code: 0

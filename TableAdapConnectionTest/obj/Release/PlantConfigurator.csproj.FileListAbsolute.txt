@@ -1,0 +1,3 @@
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\PlantConfig\TableAdapConnectionTest\bin\Release\PlantConfigurator.exe.config
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\PlantConfig\TableAdapConnectionTest\obj\Release\PlantConfigurator.exe
+C:\Users\Anton\Documents\Visual Studio 2008\Projects\Projects2005\PlantConfig\TableAdapConnectionTest\obj\Release\PlantConfigurator.pdb
